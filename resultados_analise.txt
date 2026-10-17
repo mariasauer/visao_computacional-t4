@@ -1,0 +1,33 @@
+--- FREQUÊNCIA DE CADA CATEGORIA ---
+categoria
+setosa        50
+versicolor    50
+virginica     50
+Name: count, dtype: int64
+
+++++++++++++++++++++++++++++++++++++++++++++++++++
+
+--- ESTATÍSTICAS GERAIS ---
+                   Média  Desvio Padrão  Moda
+sepal length (cm)   5.84           0.83   5.0
+sepal width (cm)    3.06           0.44   3.0
+petal length (cm)   3.76           1.77   1.4
+petal width (cm)    1.20           0.76   0.2
+
+++++++++++++++++++++++++++++++++++++++++++++++++++
+
+--- ESTATÍSTICAS POR CATEGORIA ---
+Média e Desvio Padrão:
+           sepal length (cm)       sepal width (cm)       petal length (cm)       petal width (cm)      
+                        mean   std             mean   std              mean   std             mean   std
+categoria                                                                                               
+setosa                  5.01  0.35             3.43  0.38              1.46  0.17             0.25  0.11
+versicolor              5.94  0.52             2.77  0.31              4.26  0.47             1.33  0.20
+virginica               6.59  0.64             2.97  0.32              5.55  0.55             2.03  0.27
+
+Moda por Categoria:
+            sepal length (cm)  sepal width (cm)  petal length (cm)  petal width (cm)
+categoria                                                                           
+setosa                    5.0               3.4                1.4               0.2
+versicolor                5.5               3.0                4.5               1.3
+virginica                 6.3               3.0                5.1               1.8

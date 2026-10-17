@@ -1,0 +1,9 @@
+--- CORRELAÇÃO: SÉPALA (Comprimento vs Largura) ---
+setosa: 0.74
+versicolor: 0.53
+virginica: 0.46
+
+--- CORRELAÇÃO: PÉTALA (Comprimento vs Largura) ---
+setosa: 0.33
+versicolor: 0.79
+virginica: 0.32
